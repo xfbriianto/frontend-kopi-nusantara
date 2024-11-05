@@ -22,7 +22,7 @@ function App() {
     contact: {
       phone: "+62 123 4567 890",
       email: "info@warungkopinusantara.com",
-      address: "Jl. Kopi No. 123, Jakarta, Indonesia"
+      address: "Jl. Kopi No. 123, Banyuwangi, Indonesia"
     }
   };
 
